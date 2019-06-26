@@ -1,7 +1,15 @@
 ---
-title: Projetos
+title: Projects
 feature_image: "https://picsum.photos/id/134/1300/400"
-excerpt: "Projetos aqui."
+excerpt: "Projects go here"
 ---
 
-Projetos aqui.
+## Project 1
+
+Desc:  
+Link:
+
+## Project 2
+
+Desc:  
+Link:

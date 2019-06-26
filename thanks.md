@@ -1,7 +1,7 @@
 ---
-title: Obrigado!
+title: Thank you!
 indexing: false
 sitemap: false
 ---
 
-Obrigado pela mensagem. Responderei o mais rápido possível :)
+Thank you for the message. I'll answer it as soon as possible :)

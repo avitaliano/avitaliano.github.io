@@ -64,11 +64,11 @@ timezone: America/Sao_Paulo # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Artigos # Needed for Siteleaf
+    title: Articles # Needed for Siteleaf
     output: true
     description: "" # The post list page content
     feature_text: |
-      Dados em verso
+      <b>"We are what we think. All that we are arises with our thoughts.<br> With our thoughts, we make our world."<br> Gautama Buddha</b>
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -84,7 +84,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: pt-BR # Set the site language
 title: "Arnaldo Vitaliano" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Um apanhado de ideias e ensaios no caminho da ciência com os dados (data science), aprendizagem de máquina (machine learning) e outras coisas mais." # Site description and default description, also used in jekyll-seo-tag
+description: "My way into the world of data. Essays, my learning path, some projects. How can we use data to get a better understanding of our messy and beautiful world." # Site description and default description, also used in jekyll-seo-tag
 url: "https://avitaliano.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/avitaliano/avitaliano.github.io"
@@ -109,8 +109,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
   Home: /
   # Elements: /elements/
-  Projetos: /projects/
-  Artigos: /blog/
+  Projects: /projects/
+  Blog: /blog/
   # Categories: /categories/
   Search: /search/
   # Fork Alembic: https://github.com/daviddarnes/alembic
